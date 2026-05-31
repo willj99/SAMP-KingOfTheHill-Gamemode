@@ -1,6 +1,16 @@
+
 ## King of the Hill - A San Andreas Multiplayer gamemode
 
 Hold onto the crown for the configured amount of time, live leaderboard, and mystery boxes to spice up gameplay.
 
-![](https://ibb.co/rGVjqRWf.png)
-![](https://ibb.co/mC476qk2.png)
+### Maps:
+- Area 69
+- Madd Dogg's Mansion
+
+### Features:
+- Mystery Boxes which produce random effects which can aid or hurt the hunters/king.
+- Randomized weapon spawns.
+
+<img width="1366" height="768" alt="samp2" src="https://github.com/user-attachments/assets/84f5f505-5ca3-4030-8f6e-a80f741c6ec8" />
+<img width="1440" height="900" alt="samp1" src="https://github.com/user-attachments/assets/dd297543-0758-474d-a529-5f69a38a7cbc" />
+
