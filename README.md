@@ -14,6 +14,10 @@ Hold onto the crown for the configured amount of time, live leaderboard, and mys
 - Randomized weapon spawns.
 - A shop which can be utilized when you win rounds.
 
+### How to install:
+Place the .amx inside of your gamemodes folder in your San Andreas server, then in the server.cfg add the filename as a gamemode.
+If the amx doesn't work, you will need to compile the .pwn scripts.
+
 Feel free to edit as you please, as there is probably something bugged about it that you may be able to fix.
 
 
